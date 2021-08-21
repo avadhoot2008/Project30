@@ -130,6 +130,8 @@ function draw() {
   
     imageMode(CENTER)
     image(hexa_image,hexa.position.x,hexa.position.y,40,40)
+	
+	text("Drag The Polygon To Hit The Boxes",600,250)
   
 
  
